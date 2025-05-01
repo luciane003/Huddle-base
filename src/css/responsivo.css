@@ -55,6 +55,12 @@
         align-items: center;
         text-align: center;
     }
+
+    .contact {
+        padding-right: 0;
+        align-items: center;
+        justify-content: center;
+    }
 }
 
 @media (min-width:1024) and (min-height: 1000px) {
