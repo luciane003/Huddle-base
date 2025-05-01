@@ -1,0 +1,104 @@
+html {
+    height: 100%;
+}
+body {
+    background-image: url('../images/bg-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top left;
+    background-color: hsl(257, 40%, 49%);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}    
+
+.header img{
+    padding: 50px 0 30px 40px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.main img {
+    padding-left: 40px;
+    height: 69vh;
+}
+
+.intro-section {
+   display: flex;
+   flex-direction: column;
+   margin: 0 40px 0 40px;
+   gap: 16px;
+}
+
+.title {
+   font-family: 'Poppins', sans-serif;
+   font-weight: 600;
+   color: #ffffff;
+   font-size: 4rem;
+}
+
+.text {
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 400;
+   color: #f8f8ff;
+   font-size: 22px;
+}
+
+.btn-register {
+    width: 14rem;
+    height: 4rem;
+    font-size: 24px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    color: hsl(257, 40%, 49%);
+    margin-top: 12px;
+    transition: all 0.4s ease;
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.3);
+}
+
+.btn-register:hover {
+    color: #ffffff;
+    background-color: hsl(300, 69%, 71%);
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.7);  
+}
+
+.contact {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    gap: 20px;
+    padding-right: 3rem;
+    padding-bottom: 2rem;
+}
+
+.icon {
+    display: inline-flex;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
+
+.icon a {
+    color: #fff;
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
+
+.icon:hover{
+    border: 2px solid hsl(300, 69%, 71%);
+}
+
+.icon:hover a {
+    color: hsl(300, 69%, 71%);
+}    
