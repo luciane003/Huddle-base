@@ -164,7 +164,7 @@
 
 @media (max-width: 550px) {
     body {
-        background-size: 60vh;
+        background-size: 100vw 60vh;
 
     }
 
@@ -200,7 +200,7 @@
 
 @media (max-width: 425px) {
     body {
-        background-size: 45vh;
+        background-size: 100vw 45vh;
     }
 
     .header img {
