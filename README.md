@@ -26,10 +26,10 @@ Acesse a versão online do projeto
 git clone https://github.com/luciane003/Huddle-base.git
 ### Abra o arquivo index.html no navegador
 
-## Autor
+## Visualização em gif
+![Demonstração do projeto](./src/design/Huddle-base-gif.gif)
+
+## Autora
 - Luciane Kellen
 - [LinkedIn](https://www.linkedin.com/in/luciane-kellen-bb8279342/?trk=opento_sprofile_details)
 - Feito como parte do meu processo de aprendizado em desenvolvimento frontend.
-
-## Visualização
-![Demonstração do projeto](./src/design/Huddle-base-gif.gif)
