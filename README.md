@@ -1,7 +1,9 @@
 # Huddle-base 🤝
 
 ## Descrição
-É uma página visual, que possui boas vindas, botão de registro onde você tem acesso assim que se registrar, a uma comunidade, onde todos são ouvidos e com voz, também tem contatos no rodapé se caso, querer mais informações.
+Esta é uma página visual desenvolvida com foco em acessibilidade e acolhimento.
+Ao chegar, você é recebido com uma mensagem de boas-vindas e tem a opção de se registrar rapidamente. Após o registro, é possível acessar uma comunidade onde todas as vozes são ouvidas e valorizadas.
+No rodapé, estão disponíveis canais de contato para quem desejar mais informações ou queira conversar diretamente.
 
 ## Demonstração
 Acesse a versão online do projeto
