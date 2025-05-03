@@ -7,7 +7,7 @@ No rodapé, estão disponíveis canais de contato para quem desejar mais informa
 
 ## Projeto no ar
 Acesse a versão online do projeto
-[Link do projeto](https://luciane003.github.io/Huddle-base/)
+[Link do projeto.](https://luciane003.github.io/Huddle-base/)
 
 ## Funcionalidades
 - Layout responsivo
