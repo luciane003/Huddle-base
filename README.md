@@ -29,6 +29,6 @@ git clone https://github.com/luciane003/Huddle-base.git
 ## Autor
 - Luciane Kellen
 - [LinkedIn](https://www.linkedin.com/in/luciane-kellen-bb8279342/?trk=opento_sprofile_details)
--Feito como parte do meu processo de aprendizado em desenvolvimento frontend.
+- Feito como parte do meu processo de aprendizado em desenvolvimento frontend.
 
 ## Visualização
