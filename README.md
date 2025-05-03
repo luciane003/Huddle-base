@@ -5,7 +5,7 @@ Esta é uma página visual desenvolvida com foco em acessibilidade e acolhimento
 Ao chegar, você é recebido com uma mensagem de boas-vindas e tem a opção de se registrar rapidamente. Após o registro, é possível acessar uma comunidade onde todas as vozes são ouvidas e valorizadas.
 No rodapé, estão disponíveis canais de contato para quem desejar mais informações ou queira conversar diretamente.
 
-## Demonstração
+## Projeto no ar
 Acesse a versão online do projeto
 [Link do projeto](https://luciane003.github.io/Huddle-base/)
 
@@ -26,7 +26,7 @@ Acesse a versão online do projeto
 git clone https://github.com/luciane003/Huddle-base.git
 ### Abra o arquivo index.html no navegador
 
-## Visualização em gif
+## Visualização
 ![Demonstração do projeto](./src/design/Huddle-base-gif.gif)
 
 ## Autora
