@@ -1,1 +1,1 @@
-# Huddle-base 🤝
+![Demonstração do projeto](./src/design/Huddle-base-gif.gif)
