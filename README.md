@@ -33,3 +33,5 @@ git clone https://github.com/luciane003/Huddle-base.git
 
 ## Visualização
 ![Demonstração do projeto](./src/design/Huddle-base-gif.gif)
+
+![Demonstração do projeto](./src/design/Huddle-base.gif)
